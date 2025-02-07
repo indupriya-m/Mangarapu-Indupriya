@@ -1,0 +1,41 @@
+p{
+   background-color: #9627ca;
+    cursor: pointer;
+    
+}
+#my_header{
+     display: table;
+     margin: auto;
+    
+}
+#my_header div{
+    display: table-cell;
+    
+}
+.headings{
+    display: inline-block;
+}
+
+
+
+p{
+    background-color: black;
+    text-align: left;
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: aliceblue;
+   
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 3em;
+    padding: 2em;
+    height: 100vh;
+}
+.title{
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+    
